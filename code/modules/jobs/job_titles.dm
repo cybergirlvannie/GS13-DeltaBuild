@@ -56,7 +56,7 @@
 	alt_titles = list("Medical Director", "Medical Administrator")
 
 /datum/job/doctor
-	alt_titles = list("Nurse", "Surgeon", "Physician", "Paramedic", "Trophologist", "Nutritionist", "Therapist", "Psychiatrist")
+	alt_titles = list("Nurse", "Surgeon", "Physician", "Trophologist", "Nutritionist", "Therapist", "Psychiatrist")
 
 /datum/job/chemist
 	alt_titles = list("Pharmacist", "Pharmacologist")
