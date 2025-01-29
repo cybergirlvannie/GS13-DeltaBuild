@@ -58758,7 +58758,9 @@
 /turf/open/floor/plating,
 /area/command/gateway)
 "jdV" = (
-/obj/machinery/meter,
+/obj/machinery/meter{
+	target_layer = 3
+	},
 /obj/machinery/atmospherics/pipe/manifold/purple/visible/layer3{
 	dir = 4
 	},
@@ -64344,7 +64346,9 @@
 /turf/open/floor/wood,
 /area/service/lawoffice)
 "maO" = (
-/obj/machinery/meter/atmos/atmos_waste_loop,
+/obj/machinery/meter/atmos/atmos_waste_loop{
+	target_layer = 3
+	},
 /obj/effect/turf_decal/tile/yellow{
 	dir = 4
 	},
@@ -68278,7 +68282,9 @@
 /turf/open/floor/plasteel/dark,
 /area/commons/cryopod)
 "okm" = (
-/obj/machinery/meter,
+/obj/machinery/meter{
+	target_layer = 3
+	},
 /obj/machinery/atmospherics/pipe/manifold/cyan/visible/layer3{
 	dir = 8
 	},
@@ -73303,7 +73309,9 @@
 /turf/closed/wall,
 /area/commons/toilet/restrooms)
 "qUd" = (
-/obj/machinery/meter/atmos/distro_loop,
+/obj/machinery/meter/atmos/distro_loop{
+	target_layer = 3
+	},
 /obj/effect/turf_decal/tile/yellow{
 	dir = 4
 	},
@@ -82102,7 +82110,9 @@
 /turf/closed/wall/r_wall,
 /area/engineering/atmos)
 "vOz" = (
-/obj/machinery/meter,
+/obj/machinery/meter{
+	target_layer = 3
+	},
 /obj/machinery/atmospherics/pipe/manifold/green/visible/layer3{
 	dir = 1
 	},
