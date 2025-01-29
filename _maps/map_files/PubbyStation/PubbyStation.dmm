@@ -1095,9 +1095,7 @@
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
-	name = "Central Access";
-	step_x = 0;
-	step_y = 0
+	name = "Central Access"
 	},
 /turf/open/floor/plasteel,
 /area/hallway/secondary/entry)
@@ -7326,8 +7324,7 @@
 	dir = 4
 	},
 /obj/structure/medkit_cabinet{
-	pixel_y = 27;
-	step_x = 0
+	pixel_y = 27
 	},
 /turf/open/floor/plasteel,
 /area/hallway/primary/fore)
@@ -7358,8 +7355,7 @@
 	icon_state = "plant-05"
 	},
 /obj/structure/medkit_cabinet{
-	pixel_y = 27;
-	step_x = 0
+	pixel_y = 27
 	},
 /turf/open/floor/plasteel/dark,
 /area/service/bar)
@@ -7399,8 +7395,7 @@
 	dir = 4
 	},
 /obj/structure/medkit_cabinet{
-	pixel_y = 27;
-	step_x = 0
+	pixel_y = 27
 	},
 /turf/open/floor/plasteel,
 /area/hallway/primary/central)
@@ -12843,9 +12838,7 @@
 "azT" = (
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
-	name = "Departure Lounge";
-	step_x = 0;
-	step_y = 0
+	name = "Departure Lounge"
 	},
 /obj/machinery/door/firedoor,
 /turf/open/floor/plasteel/white/corner{
@@ -12856,8 +12849,6 @@
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
 	name = "Departure Lounge";
-	step_x = 0;
-	step_y = 0
 	},
 /obj/machinery/atmospherics/pipe/simple/supply/hidden{
 	dir = 10
@@ -12880,9 +12871,7 @@
 "azW" = (
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
-	name = "Departure Lounge";
-	step_x = 0;
-	step_y = 0
+	name = "Departure Lounge"
 	},
 /obj/machinery/door/firedoor,
 /turf/open/floor/plasteel,
@@ -12890,9 +12879,7 @@
 "azX" = (
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
-	name = "Departure Lounge";
-	step_x = 0;
-	step_y = 0
+	name = "Departure Lounge"
 	},
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -13095,9 +13082,7 @@
 "aAx" = (
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
-	name = "Departure Lounge";
-	step_x = 0;
-	step_y = 0
+	name = "Departure Lounge"
 	},
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
 	dir = 4
@@ -65030,9 +65015,7 @@
 "xaA" = (
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
-	name = "Central Access";
-	step_x = 0;
-	step_y = 0
+	name = "Central Access"
 	},
 /turf/open/floor/plasteel,
 /area/security/checkpoint/science)
