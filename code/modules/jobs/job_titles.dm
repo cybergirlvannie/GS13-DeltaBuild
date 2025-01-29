@@ -67,6 +67,9 @@
 /datum/job/geneticist
 	alt_titles = list("Gene Therapist", "Genetics Researcher")
 
+/datum/job/paramedic
+	alt_titles = list("Emergency Medical Technician", "Space Search and Rescue")
+
 //Security
 /datum/job/hos
 	alt_titles = list("Chief of Security", "Security Commander", "Sheriff")
