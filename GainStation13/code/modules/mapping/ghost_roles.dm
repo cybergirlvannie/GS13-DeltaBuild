@@ -99,9 +99,9 @@
 	desc = "Through the red glass, you can see someone sleeping inside..."
 	mob_name = "Feeder Fanatic"
 	job_description = "Feeder Fanatic"
-	short_desc = "You are a member of a niche branch of Syndicate with... strange goals."
+	short_desc = "You are a member of hard fork of The Syndicate with some pretty bizzare goals."
 	flavour_text = "After months of construction and gathering equipment, your den is finished - a monument to gluttony, equipped with every tool to turn any sharp body into a quivering mound of lard..."
-	important_info = "Keep your den in one piece and away from curious eyes! YOU AREN'T ALLOWED TO CAPTURE / FATTEN UP PEOPLE WHO DON'T DO NON-CON OR DIDN'T AGREE TO IT! Despite being able to leave the outpost, you do NOT have a permission to antag or grief. You're supposed to stay covert, not show yourself to the whole station!"
+	important_info = "Keep your den in one piece and away from curious eyes! YOU AREN'T ALLOWED TO CAPTURE / FATTEN UP PEOPLE WHO DON'T DO NON-CON OR DIDN'T AGREE TO IT! Despite being able to leave the outpost, you do NOT have a permission to antag or grief. It's probably best to stay covert, but if it can't be avoided, then try to act like an extra crewmember. They probably won't harm you if you do, but it depends. It might be more effective if the population is low."
 	outfit = /datum/outfit/feeders_den/fanatic
 	faction = ROLE_SYNDICATE
 	assignedrole = "Space Agent"

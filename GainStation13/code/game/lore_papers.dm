@@ -40,7 +40,7 @@
 	Additionally, if you have someone to help you, they can beam up anyone that is marked, by using the camera console.\
 	<br><br>\
 	Credits can be gained by having someone you fattened up use the tracking scale. Keep in mind that credits can only be gained when someone surpasses their previous max weight.\
-	Additionally, you are only able to get 900 credits from a person.\
+	Additionally, you are only able to get 90000 credits from a person.\
 	<br><br>\
 	You are able to use the console and pad to send victims back to the station after you are done with them. Avoid sending them anywhere dangerous or obvious unless you want to risk the ire of GATO. "
 

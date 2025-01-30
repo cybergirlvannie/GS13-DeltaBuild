@@ -1,10 +1,10 @@
 /datum/feeders_den_goodie
 	/// What is the name of the goodie we want to buy?
-	var/name 
+	var/name
 	/// How much credits does this cost to buy?
 	var/credit_cost = 0
 	/// How much stock of this can be bought? If this is null, infinite can be bought
-	var/initial_stock 
+	var/initial_stock
 	/// What is the path of the item to dispense?
 	var/item_to_dispense
 
@@ -86,3 +86,18 @@
 	credit_cost = 250
 	item_to_dispense = /obj/item/implantcase/docile/livestock
 	initial_stock = 5
+
+/datum/feeders_den_goodie/emag
+	name = "Cryptographic Sequencer"
+	credit_cost = 100
+	item_to_dispense = /obj/item/card/emag
+
+/datum/feeders_den_goodie/emagrecharge
+	name = "Cryptographic Sequencer Recharger"
+	credit_cost = 100
+	item_to_dispense = /obj/item/emagrecharge
+
+/datum/feeders_den_goodie/spare_agent_id
+	name = "Spare Agent ID"
+	credit_cost = 100
+	item_to_dispense = /obj/item/card/id/syndicate

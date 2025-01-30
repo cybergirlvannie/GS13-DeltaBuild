@@ -161,7 +161,7 @@
 	/// What is the current team number?
 	var/team_number = 27
 	/// What is the maximum ammount of credits that can be gained per person?
-	var/maximum_credits = 1000 // A little bit over the fattness for blob.
+	var/maximum_credits = 90000 // A little bit over the fattness for blob.
 
 /obj/structure/scale/credits/Initialize(mapload)
 	..()
