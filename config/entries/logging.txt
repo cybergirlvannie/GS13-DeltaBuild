@@ -92,6 +92,6 @@ ERROR_LIMIT 50
 ## How long an unique runtime will be silenced for when reaching limit in deciseconds
 ERROR_SILENCE_TIME 6000
 
-How long to wait between messaging admins about an unique runtime
+## How long to wait between messaging admins about an unique runtime
 ERROR_MSG_DELAY 50
 
