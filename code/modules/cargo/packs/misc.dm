@@ -78,6 +78,8 @@
 					/obj/item/clipboard,
 					/obj/item/stamp,
 					/obj/item/stamp/denied,
+					/obj/item/stamp/wrong,
+					/obj/item/stamp/right,
 					/obj/item/laser_pointer/purple)
 	crate_name = "bureaucracy crate"
 

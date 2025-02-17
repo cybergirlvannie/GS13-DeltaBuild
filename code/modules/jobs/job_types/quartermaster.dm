@@ -36,7 +36,9 @@
 
 	family_heirlooms = list(
 		/obj/item/stamp,
-		/obj/item/stamp/denied
+		/obj/item/stamp/denied,
+		/obj/item/stamp/wrong,
+		/obj/item/stamp/right
 	)
 
 	mail_goodies = list(
