@@ -89,5 +89,14 @@
 	icon_state = "stamp-syndicate"
 	dye_color = DYE_SYNDICATE
 
+/obj/item/stamp/wrong
+	name = "\improper INCORRECT rubber stamp"
+	icon_state = "stamp-wrong"
+	dye_color = DYE_REDCOAT
+
+/obj/item/stamp/right
+	name = "\improper CORRECT rubber stamp"
+	icon_state = "stamp-right"
+
 /obj/item/stamp/attack_paw(mob/user)
 	return attack_hand(user)
