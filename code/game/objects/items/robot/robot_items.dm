@@ -769,9 +769,10 @@
 		/obj/item/stock_parts
 		)
 	//Basically a blacklist for any subtypes above we dont want
+	//What's the matter, too OP for ya? Man, fudge that! - Vannie
 	var/list/cannot_hold = list(
-		/obj/item/stack/sheet/mineral/plasma,
-		/obj/item/stack/sheet/plasteel
+	//	/obj/item/stack/sheet/mineral/plasma,
+	//	/obj/item/stack/sheet/plasteel
 		)
 
 	var/obj/item/wrapped = null // Item currently being held.
