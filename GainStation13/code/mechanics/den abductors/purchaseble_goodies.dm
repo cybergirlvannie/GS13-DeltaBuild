@@ -101,3 +101,9 @@
 	name = "Spare Agent ID"
 	credit_cost = 100
 	item_to_dispense = /obj/item/card/id/syndicate
+
+/datum/feeders_den_goodie/space_suit
+	name = "Boxed Space Suit and Helmet"
+	credit_cost = 300
+	item_to_dispense = /obj/item/storage/box/syndie_kit/space
+	initial_stock = 2
