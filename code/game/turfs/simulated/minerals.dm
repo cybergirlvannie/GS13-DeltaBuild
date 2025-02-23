@@ -430,13 +430,6 @@
 	mineralAmt = 3
 	scan_state = "rock_Bananium"
 
-//GS13++ - This seemed to be missing. I wonder why it didn't appear?!
-///turf/closed/mineral/calorite
-//	mineralType = /obj/item/stack/ore/calorite
-//	mineralAmt = 3
-//	scan_state = "rock_Calorite"
-//GS13++ - Edit done, carry on!
-
 /turf/closed/mineral/bscrystal
 	mineralType = /obj/item/stack/ore/bluespace_crystal
 	mineralAmt = 1
