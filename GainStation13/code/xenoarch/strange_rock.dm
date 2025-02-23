@@ -4,7 +4,6 @@
 	desc = "This is a strange rock, it appears to have a relic encased."
 	icon_state = "strange"
 	item_state = "strange"
-	scan_state = "rock_Strange" //GS13++ - Old Fix didn't work, so let's try something new.
 
 	var/chosenitem = null
 	var/itemsafedepth = null
