@@ -109,6 +109,13 @@
 			return
 		to_chat(user,"Current depth dug: [dugdepth] centimeters.")
 		playsound(loc, HM.usesound, 50, 1, -1)
+
+//GS13++ - It seemed to work with Calorite, so let's see here...
+/turf/closed/mineral/strange
+	mineralType = /obj/item/strangerock
+	mineralAmt = 1
+	scan_state = "rock_Strange"
+
 //
 /turf/closed/mineral/random/volcanic/strangerock
 	mineralChance = 10
