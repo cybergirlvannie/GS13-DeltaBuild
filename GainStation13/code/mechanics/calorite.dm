@@ -27,8 +27,6 @@
 /turf/closed/mineral/calorite //GS13
 	mineralType = /obj/item/stack/ore/calorite
 	mineralAmt = 3
-	spreadChance = 1
-	spread = 0
 	scan_state = "rock_Calorite"
 
 /obj/item/stack/ore/calorite //GS13
