@@ -109,7 +109,7 @@
 			return
 		to_chat(user,"Current depth dug: [dugdepth] centimeters.")
 		playsound(loc, HM.usesound, 50, 1, -1)
-//
+
 /turf/closed/mineral/random/volcanic/strangerock
 	mineralChance = 10
 	mineralSpawnChanceList = list(
